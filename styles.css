@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: rgb(43, 43, 43);
+    color: rgb(134, 134, 134);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 1px 2px 3px black;
+}
+
+button{
+    background-color:black;
+    color: rgb(134, 134, 134);
+    border-radius: 10px;
+    border: none;
+    font-size:30px;
+    padding: 5px;
+    font-weight: bolder;
+}
+
+button:hover{
+    color: rgb(235, 232, 232);
+}
+
+button:active{
+    color: red;
+}
